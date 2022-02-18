@@ -1,5 +1,5 @@
 ### A brief introduction
-Hi! My name is Nivaldo Leite, and I am a senior in Electrical Engineering at the Federal University of Triângulo Mineiro - UFTM. Python is my firt 
+Hi! My name is Nivaldo Leite, and I am a senior in Electrical Engineering at the Federal University of Triângulo Mineiro - UFTM. Python is my first 
 language but I am always trying to venturing myself in some others too. There is no much in here (yet), but it will change soon (I hope so).
 
 ---
